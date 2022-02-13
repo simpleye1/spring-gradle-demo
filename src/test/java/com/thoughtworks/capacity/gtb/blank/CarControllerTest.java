@@ -8,7 +8,7 @@ class CarControllerTest {
     @Test
     void justASimpleTest() {
         System.out.println("hello world");
-        assertThat(1).isEqualTo(1);
+        assertThat(2).isEqualTo(1);
     }
 
 }
